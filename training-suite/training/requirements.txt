@@ -1,0 +1,8 @@
+torch==2.2.2
+pandas==2.2.3
+numpy==1.26.4
+python-chess==1.999
+zstandard==0.22.0
+tqdm==4.66.5
+modal==1.2.2
+pyarrow==17.0.0
