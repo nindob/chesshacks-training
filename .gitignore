@@ -1,0 +1,5 @@
+devtools/
+.venv/
+.env.local
+*.pt
+.DS_Store
